@@ -15,16 +15,18 @@ Computer Engineer 🐝
 ![](https://github-readme-streak-stats.herokuapp.com/?user=demirelfth&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=demirelfth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=demirelfth&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!--
 ### 😂 Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=demirelfth&icon=5&color=3)](https://visitcount.itsvg.in)
 
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
