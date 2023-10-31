@@ -1,4 +1,4 @@
-<div><h1 align="center">Welcome to my Github page 👋</h1></div>
+<div><h1 align="center">Welcome to my Github Page 👋</h1></div>
 <!-- https://gprm.itsvg.in/ -->
 
 # 💫 About Me:
