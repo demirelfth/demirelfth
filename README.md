@@ -4,7 +4,7 @@
 
 Hi there,
 
-I'm a graduate of Istanbul Technical University with a bachelor's degree in Computer Engineering.
+As a back-end developer at Nişancı Software, I use Nodejs, PostgreSQL to create and maintain web applications that meet the needs of our clients. I have nine months of experience in this role, and I am pursuing my bachelor's degree in Computer Engineering at Istanbul Technical University. Previously, I worked as an IT specialist at Metfamer Maden Ticaret Anonim Şirketi for nine months, where I supported the company's IT infrastructure and security. Before that, I was a software engineer at Sade Yazılım ve Danışmanlık for over two years, where I developed and tested software solutions using various technologies and tools. I have also obtained certifications in Python, Pandas, and Problem Solving from HackerRank and Kaggle, which demonstrate my skills and competencies in these areas. I am passionate about learning new technologies and solving complex problems, and I aim to deliver high-quality and user-friendly products that add value to the business and society.
 
 
 Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f06f87b1ed537b6729e11ddbbe3716e/CV.pdf) to learn more about me and my projects.
