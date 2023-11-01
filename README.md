@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Fatih Demirel.
+Hi there,
 
 I'm a graduate of Istanbul Technical University with a bachelor's degree in Computer Engineering.
 
@@ -114,32 +114,6 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
   </tr>
 </table>
 
-<!--
-<table>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Aras Güngöre's Profile Details" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasgungore&theme=default" alt="Top Languages by Repo" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasgungore&theme=default" alt="Top Languages by Commit" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasgungore&theme=default" alt="Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasgungore&theme=default&utcOffset=8" alt="Commits" /> </a>
-    </td>
-  </tr>
-</table>
--->
-
 [![Trophies](https://github-profile-trophy.vercel.app/?username=demirelfth&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -155,30 +129,3 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
 -->
-
-
-<!--
-## 🐍 Contribution Graph
-
-![Snake Game](https://github.com/arasgungore/arasgungore/blob/output/github-snake.gif)
--->style=plastic&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=demirelfth&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=demirelfth&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=demirelfth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=demirelfth&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!--
-### 😂 Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=demirelfth&icon=5&color=3)](https://visitcount.itsvg.in)
-
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
