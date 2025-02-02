@@ -59,4 +59,11 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C664%20hrs%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-701-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+
+
 <!--END_SECTION:waka-->
