@@ -60,5 +60,12 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 01 February 2025 - To: 01 February 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
