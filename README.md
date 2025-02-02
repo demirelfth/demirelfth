@@ -36,6 +36,10 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## 📨 Social & Contact
 
