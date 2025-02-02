@@ -36,13 +36,6 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 ## 📨 Social & Contact
 
@@ -57,6 +50,11 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
   &nbsp;
   <a href="https://leetcode.com/demirelfth" target="_blank" rel="noreferrer"> <img alt="Fatih Demirel's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
+
+<br>
+<br>
+<br>
+<br>
 
 <!--START_SECTION:waka-->
 
