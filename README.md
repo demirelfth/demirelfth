@@ -22,12 +22,6 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 
 <div align="left">
   <a href="https://github.com/demirelfth/github-readme-stats" title="Go to Source">
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=demirelfth&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/demirelfth/github-readme-stats" title="Go to Source">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=demirelfth&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
