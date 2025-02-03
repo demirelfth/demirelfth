@@ -21,7 +21,7 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 &nbsp; &nbsp;
 
 <div align="left">
-  <a href="https://github.com/demirelfth/github-readme-streak-stats" title="Go to Source">
+  <a href="https://github.com/demirelfth/github-readme-stats" title="Go to Source">
     <img align="left" width=390 src="https://streak-stats.demolab.com/?user=demirelfth&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   </a>
 </div>
