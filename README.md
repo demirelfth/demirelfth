@@ -55,14 +55,14 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 February 2025 - To: 01 March 2025
+From: 01 February 2025 - To: 02 March 2025
 
-Total Time: 1 hr 42 mins
+Total Time: 1 hr 54 mins
 
-Markdown   51 mins         >>>>>>>>>>>>-------------   49.74 %
-Python     35 mins         >>>>>>>>>----------------   34.23 %
-Git        5 mins          >------------------------   05.10 %
-Other      0 secs          -------------------------   00.66 %
+Markdown   51 mins         >>>>>>>>>>>--------------   44.88 %
+Python     46 mins         >>>>>>>>>>---------------   40.65 %
+Git        5 mins          >------------------------   04.60 %
+Other      0 secs          -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
