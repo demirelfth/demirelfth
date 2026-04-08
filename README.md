@@ -55,7 +55,7 @@ Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f0
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 February 2025 - To: 05 April 2026
+From: 01 February 2025 - To: 06 April 2026
 
 Total Time: 8 hrs 53 mins
 
