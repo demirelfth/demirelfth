@@ -17,7 +17,7 @@ As a back-end developer, I use Node.js and PostgreSQL to develop and maintain we
 
 Check out my [CV](https://github.com/demirelfth/fatihdemirel-CV/blob/1534a67d0f06f87b1ed537b6729e11ddbbe3716e/CV.pdf) to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=demirelfth&repo=fatihdemirel-CV)](https://github.com/demirelfth/fatihdemirel-CV)
+
 &nbsp; &nbsp;
 
 <div align="left">
